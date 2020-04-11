@@ -12,7 +12,7 @@ float square_me(float radius);
 
 int main(void) {
     float radius = 2.57f;
-    printf("Circls's area is: %f\n", calculate_circle_area(radius));
+    printf("Circle's area is: %f\n", calculate_circle_area(radius));
     return 0;
 }
 
